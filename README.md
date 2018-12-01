@@ -25,11 +25,17 @@ crsp_resistance = find_resistance(crsp)
 crsp
 
 0    19.325333
+
 1    39.125000
+
 2    49.848571
+
 3    52.002917
+
 4    56.334285
+
 5    65.010000
+
 Name: resistance, dtype: float64
 
 
