@@ -21,7 +21,9 @@ Simply import the module and call find_resistance(data) or find_support(data) wi
 eg:
 
 crsp_resistance = find_resistance(crsp)
+
 crsp
+
 0    19.325333
 1    39.125000
 2    49.848571
