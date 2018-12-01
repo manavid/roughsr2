@@ -1,5 +1,5 @@
 # roughsr2
-An improved version of roughsr - which was a module for finding support and resistance levels.
+This module finds support and resistance levels and is an improved version of the original roughsr.
 
 # WARNING
 Please be aware that this is a very rough piece of code and I take no responsibility for any financial loss that may incur from it's use.
